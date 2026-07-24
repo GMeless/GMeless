@@ -1,4 +1,4 @@
-# 🏆 Gnagne Meless — Data Scientist & ML Engineer
+# 🏆 Meless Gnagne — Data Scientist & ML Engineer
 
 ### Passionné de Data Science | Champion National DataTour 2026 🥇 | Détection de Fraude
 
