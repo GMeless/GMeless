@@ -100,7 +100,7 @@ Git • Docker • FastAPI • Streamlit • Power BI • PySpark • Hadoop
 
 ### 🧠 **[ontologie-systèmes-dynamiques_ml](https://github.com/GMeless/ontologie-systemes-dynamiques_ml)**
 *Ontologie OWL/RDF pour systèmes dynamiques*
-- 🏭 Préparation doctorat (ISAE-Supmeca)
+- 🏭 Préparation doctorat 
 - 📚 Knowledge graphs & semantic web
 - 🔬 Application IA explicable
 
@@ -114,7 +114,7 @@ Git • Docker • FastAPI • Streamlit • Power BI • PySpark • Hadoop
 
 ## 📊 Kaggle Performance
 
-- 🥈 **Reconnaissance de chiffres:** 69/1192 ← Bon classement!
+- 🥈 **Reconnaissance de chiffres:** 69/1192 
 - 🥉 **Titanic:** 717/11659
 - 📈 Compétitions en cours
 
